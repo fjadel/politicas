@@ -1,3 +1,26 @@
+
+# Privacy Notice
+
+Scope: This notice applies to this application published on Google Play.
+
+Controller and Contact: Developer information and contact details are managed through the application's listing on Google Play.
+
+Personal Data: This application does NOT collect, store, or share users' personal data. Accounts, emails, or other identifying information are not requested.
+
+Access and Permissions: The application does not require special permissions (location, camera, contacts, microphone, etc.) to function.
+
+Third-Party Services: Currently, the application does NOT integrate analytics services, advertising networks, or third-party SDKs that collect data. It also does not include in-app purchases.
+
+Storage and Cookies: Cookies are not used, and user data is not stored on remote servers. Any temporary data (e.g., scores or game progress if a local save function is available) is stored only on the user's device.
+
+Children: The application is designed for family use and is suitable for all ages. If you notice any issues related to content or privacy for minors, please contact us through the app's listing on Google Play.
+
+Rights and inquiries: If you have any questions or wish to report a privacy-related issue, please use the contact option available on the app's listing on Google Play.
+
+Effective date: September 7, 2026. Version: 1.1
+
+------------------
+
 # Aviso de privacidad
 
 Alcance: Este aviso se aplica a esta aplicación publicada en Google Play.
